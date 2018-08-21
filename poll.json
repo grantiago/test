@@ -1,5 +1,11 @@
 [
     {
+        "day": "Thursday",
+        "kayak": "1",
+        "surf": "0",
+        "other": "0"
+    },
+    {
         "day": "Friday",
         "kayak": "0",
         "surf": "0",
@@ -25,7 +31,7 @@
     },
     {
         "day": "Tuesday",
-        "kayak": "20",
+        "kayak": "19",
         "surf": "16",
         "other": "1"
     }
