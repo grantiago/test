@@ -18,9 +18,15 @@
         "other": "0"
     },
     {
+        "day": "Monday",
+        "kayak": "0",
+        "surf": "9",
+        "other": "0"
+    },
+    {
         "day": "Tuesday",
         "kayak": "20",
-        "surf": "25",
+        "surf": "16",
         "other": "1"
     }
 ]
