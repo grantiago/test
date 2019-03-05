@@ -1,0 +1,80 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+"type": "Feature",
+"properties": {
+"firstname": "Grant",
+"type": "Rooster",
+"year": "2018"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+"-116.884499",
+"44.234257"
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"firstname": "Grant",
+"type": "Rooster",
+"year": "2018"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+"-116.923668",
+"44.240669"
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"firstname": "Jim",
+"type": "Miss",
+"year": "2018"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+"-116.891464",
+"44.234116"
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"firstname": "Jim",
+"type": "Rooster",
+"year": "2018"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+"-116.930710",
+"44.236488"
+]
+}
+},
+{
+"type": "Feature",
+"properties": {
+"firstname": "Jim",
+"type": "Rooster",
+"year": "2018"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+"-116.873199",
+"44.234276"
+]
+}
+}
+]
+}
