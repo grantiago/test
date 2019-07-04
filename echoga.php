@@ -1,3 +1,3 @@
-+<?
-+echo 'grant';
-+?>
+<?php
+echo 'grant';
+?>
