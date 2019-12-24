@@ -3,6 +3,7 @@ test
 
 just a test of github
 
-https://rawgit.com/
+http://myjson.com/thl8o
+works with codepen
 
 for delivering json to jsfiddle
