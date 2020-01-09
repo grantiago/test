@@ -10,7 +10,7 @@ http://myjson.com/thl8o <code>
   },
   </code>
 
-just paste your json in the box to access it from codepen :sex:
+just paste your json in the box to access it from codepen :peach: :eggplant:
 
 
   
