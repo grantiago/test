@@ -2,11 +2,12 @@
 ====
 
 just a test of github
-myjson.com is dead :skull:
 
-this works:
+this works for delivering json to jsfiddle:
 
 https://jsonplaceholder.typicode.com/
+
+this will give a cors error:
 
 https://lrio.com/php/android/gage.php
   
@@ -17,8 +18,6 @@ in the console:
         .then(json => console.log(json))
 
 :coffee:, :beer: and :dancer:
-
-https://awes0mem4n.github.io/emojis-github.html - automatic!
 
 [github markdown](https://guides.github.com/features/mastering-markdown/)
 
