@@ -2,6 +2,7 @@
 ====
 
 just a test of github
+myjson.com is dead :dead:
 
 http://myjson.com/thl8o <code>
    {
