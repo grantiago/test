@@ -2,21 +2,9 @@
 ====
 
 just a test of github
-myjson.com is dead :dead:
+myjson.com is dead :skull:
 
-http://myjson.com/thl8o <code>
-   {
-    "id": "6",
-    "name": "Bee"
-  },
-  </code>
-
-just paste your json in the box to access it from codepen :peach: :eggplant:
-
-
-  
-works with codepen
-
-for delivering json to jsfiddle
+http://myjson.com/thl8o 
+  https://lrio.com/php/android/gage.php
 
 :coffee:, :beer: and :dancer:
