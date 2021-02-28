@@ -18,7 +18,7 @@ in the console:
 
 :coffee:, :beer: and :dancer:
 
-https://awes0mem4n.github.io/emojis-github.html -automatic!
+https://awes0mem4n.github.io/emojis-github.html - automatic!
 
 [github markdown](https://guides.github.com/features/mastering-markdown/)
 
