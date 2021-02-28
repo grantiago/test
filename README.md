@@ -22,4 +22,4 @@ in the console:
 
 [github markdown](https://guides.github.com/features/mastering-markdown/)
 
-[github icons](https://gist.github.com/rxaviers/7360908)
+[github icons](https://awes0mem4n.github.io/emojis-github.html)
