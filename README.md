@@ -12,7 +12,7 @@ https://lrio.com/php/android/gage.php
   
 in the console:
   
-`fetch('https://lrio.com/php/android/gage.php')
+`<fetch('https://lrio.com/php/android/gage.php')
 
 .then(response => response.json())
 
