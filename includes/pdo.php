@@ -1,7 +1,4 @@
 <?php
-
-//$dsn = 'mysql:dbname=rivers;host=localhost';
-
 	$host = "localhost";
 	$db = "your_db";
 	$user = "your_user";
