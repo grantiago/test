@@ -31,10 +31,11 @@ $stmt->execute([$station, $agency]);
 $data = $stmt->fetchAll();
 
 foreach($data as $result) {
+    // check what is in the array
     // echo $result['cfs'] . ' ' . $result['agency'] . '<br>';
 }
-
+// print it to this page
 print $json = (json_encode($result, JSON_NUMERIC_CHECK));
-// this php file can serve as a json file though it might give a srict mime error
+// save it as a json file.
 file_put_contents ('boise.json', $json)
 ?>
