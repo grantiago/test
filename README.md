@@ -7,7 +7,7 @@ this works for delivering json to jsfiddle:
 
 https://jsonplaceholder.typicode.com/
 
-this will give a cors error:
+this will give a CORS error:
 
 https://lrio.com/php/android/gage.php
   
