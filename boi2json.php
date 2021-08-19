@@ -1,7 +1,7 @@
 <?php
- /*
+ /* 
  * boi2json.php
- * 
+ * mysql query to json
  */
 header('Content-Type: application/json');
 require dirname(__DIR__) . DIRECTORY_SEPARATOR . 'includes/pdo.php';
